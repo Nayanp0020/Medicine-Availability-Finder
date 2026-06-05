@@ -30,19 +30,20 @@ python manage.py runserver
 
 ---
 
-## 🖼️ Screenshots
 
-```md
+## 📸 Screenshots
+
+### Home Page
 ![Home Page](images/MainDashboard.png)
 
+### Pharmacy Information
 ![Pharmacy Information](images/PharmacyInfo.png)
 
-![medicine Information](images/MedicineInfo.png)
+### Medicine Information
+![Medicine Information](images/MedicineInfo.png)
 
-![Adding Medicine with Pharcmacy Information](images/Overall.png)
-```
-
----
+### Adding Medicine with Pharmacy Information
+![Adding Medicine with Pharmacy Information](images/Overall.png)
 
 ## 🔗 GitHub Repository
 
