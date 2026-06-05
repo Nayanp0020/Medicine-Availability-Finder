@@ -33,7 +33,7 @@ python manage.py runserver
 ## 🖼️ Screenshots
 
 ```md
-![Home Page](Iimages/MainDashboard.png)
+![Home Page](images/MainDashboard.png)
 
 ![Pharmacy Information](images/PharmacyInfo.png)
 
